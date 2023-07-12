@@ -4,4 +4,4 @@
 
 Estou aprendendo a criar site se agr vou gerenciar meus repositórios!
 
-<a hred="https://thiigab.github.io/html-css/desafios/des010/">Executar o Desafio 010</a>
+<a href="https://thiigab.github.io/html-css/desafios/des010/">Executar o Desafio 010</a>
