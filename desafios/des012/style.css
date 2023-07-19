@@ -1,0 +1,120 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    padding: 10px;
+}
+
+header {
+    height: 220px;
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+header > h1 {
+    font-size: 9em;
+}
+
+header > p {
+    font-size: 1.2em;
+}
+
+header > p > a {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.s1 > p {
+    margin-left: 30px;
+    font-family: cursive;
+    font-size: 3.7em;
+    line-height: 140px;
+}
+
+.s2 {
+    background: black url('imagens/background001.jpg') center center no-repeat fixed;
+    background-size: cover;
+    margin-bottom: 50px;
+}
+
+.s2 > p {
+    color: white;
+    max-width: 732px;
+    min-width: 100px;
+    background-color: rgba(0, 0, 0, 0.336);
+    margin-left: 30px;
+    font-family: cursive;
+    font-size: 3.7em;
+    line-height: 140px;
+}
+
+.s3 {
+    margin-left: 30px;
+    font-family: cursive;
+    font-size: 3.7em;
+    line-height: 140px;
+    margin-bottom: 80px;
+}
+
+.s4 {
+    margin-left: 30px;
+    font-family: cursive;
+    font-size: 3.7em;
+    line-height: 140px;
+    margin-bottom: 100px;
+}
+
+.s5 {
+    background: black url('imagens/background002.jpg') center center no-repeat fixed;
+    background-size: cover;
+    margin-bottom: 50px;
+}
+
+.s5 > p {
+    color: white;
+    max-width: 732px;
+    min-width: 100px;
+    background-color: rgba(0, 0, 0, 0.336);
+    margin-left: 30px;
+    font-family: cursive;
+    font-size: 3.7em;
+    line-height: 140px;
+}
+
+.s6 {
+    margin-left: 30px;
+    font-family: cursive;
+    font-size: 3.7em;
+    line-height: 140px;
+    margin-bottom: 80px;
+}
+
+.s7 {
+    margin-left: 30px;
+    font-family: cursive;
+    font-size: 3.7em;
+    line-height: 140px;
+    margin-bottom: 80px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
